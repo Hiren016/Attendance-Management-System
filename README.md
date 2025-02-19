@@ -1,5 +1,3 @@
-# Attendance-Management-System
-
 # 📌 Attendance Management System using QR Code
 
 ## 🚀 Project Overview
