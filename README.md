@@ -23,7 +23,6 @@ The **Attendance Management System** is a web-based solution designed to streaml
 Here are some snapshots of the **Attendance Management System** in action:
 
 ### 🔹 **Home Page**
-![Home Page](screenshots/home_page.jpg)
 ![home_page](https://github.com/user-attachments/assets/c27964af-7da4-4026-aa8f-4cef14ce276c)
 
 
