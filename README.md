@@ -16,7 +16,15 @@ The **Attendance Management System** is a web-based solution designed to streaml
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Authentication:** JWT (JSON Web Token)  
-- **QR Code Generation:** qrcode package  
+- **QR Code Generation:** qrcode package
+
+
+  ## 📸 UI Screenshots
+Here are some snapshots of the **Attendance Management System** in action:
+
+### 🔹 **Home Page**
+![Home Page](screenshots/home_page.jpg)
+
 
 
 ## 📂 Folder Structure
