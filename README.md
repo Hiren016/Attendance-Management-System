@@ -31,6 +31,11 @@ Here are some snapshots of the **Attendance Management System** in action:
 ### 🔹 **Teacher Login**
 ![teacher_login](https://github.com/user-attachments/assets/01db4d91-00dc-45a6-957b-d5f391be51a4)
 
+### 🔹 **Scan QR**
+![scan_QR](https://github.com/user-attachments/assets/00927873-fb6f-4fa2-b8c5-8a454102516a)
+
+### 🔹 **View Details for any Subject**
+![view_details_for_any_subject](https://github.com/user-attachments/assets/0b4907bc-e92a-4f7f-ac70-ee820f76eead)
 
 
 ## 📂 Folder Structure
