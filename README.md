@@ -25,6 +25,11 @@ Here are some snapshots of the **Attendance Management System** in action:
 ### 🔹 **Home Page**
 ![home_page](https://github.com/user-attachments/assets/c27964af-7da4-4026-aa8f-4cef14ce276c)
 
+### 🔹 **Student Login**
+![student_login](https://github.com/user-attachments/assets/5554dac9-29ba-4156-96cf-bc5bc890091c)
+
+### 🔹 **Teacher Login**
+![teacher_login](https://github.com/user-attachments/assets/01db4d91-00dc-45a6-957b-d5f391be51a4)
 
 
 
